@@ -23,7 +23,7 @@ pinout:
   ui[4]: "IN4 (direct to output)"
   ui[5]: "IN5 (XOR and direct)"
   ui[6]: "IN6 (XOR and AND)"
-  ui[7]: "IN7 (AND input)
+  ui[7]: "IN7 (AND input)"
 
   # Outputs
   uo[0]: "OUT0 (NOT A, seven-segment control)"
