@@ -11,6 +11,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+- Currently random gates are used to show number 4.
+- 10000111 leads to display of "4."
+
 ## How to test
 
 Explain how to use your project
