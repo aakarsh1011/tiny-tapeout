@@ -16,7 +16,17 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+| Output | Logic Description |
+|--------|------------------|
+| OUT0  | ¬A               |
+| OUT1  | ¬A               |
+| OUT2  | ¬A               |
+| OUT3  | IN3              |
+| OUT4  | IN4              |
+| OUT5  | IN5              |
+| OUT6  | IN5 ⊕ IN6        |
+| OUT7  | IN6 AND IN7      |
+
 
 ## External hardware
 
